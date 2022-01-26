@@ -15,7 +15,7 @@
 # wyjście z katalogu.
 
 # 5. sudo
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# uruchamia program jako jakiś inny użytkownik, np. root.
 
 # 6. mkdir
 # tworzy katalog
