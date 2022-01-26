@@ -1,0 +1,103 @@
+# AUTOR: Ja
+
+# HOT 16
+
+# 1. ls
+# Pokazuje pliki
+
+# 2. ls -a
+# pokazuje ukryte pliki.
+
+# 3. cd
+# zmienia aktualny katalog 
+
+# 4. cd ..
+# wyjście z katalogu.
+
+# 5. sudo
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 6. mkdir
+# tworzy katalog
+
+# 7. rm -r
+# kasuje katalog z podkatalogami
+
+# 8. unrar x
+# Rozpakowuje archiwum rar
+
+# 9. ps -el
+# Wyświetlenie wszystkich uruchomionych procesów na komputerze.
+
+# 10. kill -9
+# zabija podany proces
+
+# 11. free -g
+# Pokazuje, ile jest wolnej pamieci w gigabajtach
+
+# 12. iostat
+# Sprawdza CPU
+
+# 13. ifconfig
+# polecenie konfigurujące interfejsy sieciowe
+
+# 14. ping
+# program diagnostyczny sprawdzający czy istnieje połączenie sieciowe z danym komputerem.
+
+# 15. shutdown
+# Zamyka program.
+
+# 16. whoami
+# wyświetla nazwę użytkownika.
+
+
+
+# HOT 32
+
+# 17. --help
+# Wyświetla pomoc.
+
+# 18. cp
+#  kopiuje plik
+
+# 19. mv
+# przesuwa plik i pozwala zmienić nazwę.
+
+# 20. rm
+# Kasuje plik.
+
+# 21. chmod
+# zmienia prawa dostępu do pliku
+
+# 22. locate 
+# znajduje lokalizację pliku o podanej nazwie lub jej części.
+
+# 23. ssh 
+# program do zdalnego logowania używając szyfrowanego połączenia
+
+# 24. pwd
+# pokazuje w jakim katalogu sie jest
+
+# 25. mail
+# otwiera plik z poczta
+
+# 26. route -n
+# Wyświetlanie bramy domyślnej.
+
+# 27. control-d
+# zakończenie listu i wysłanie
+
+# 28. control-c
+# opuszczenie programu bez wysyłki listu.
+
+# 29. get plik
+# Pobranie pliku z innego komputera w ftp.
+
+# 30. ps
+# wypisuje stan procesów.
+
+# 31. touch <nazwa_pliku> 
+# tworzy pusty plik.
+
+# 32. grep
+# służy do wyszukiwania plików według zadanego wzorca.
